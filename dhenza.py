@@ -1638,7 +1638,7 @@ def bot(op):
             except Exception as e:
                 logError(e)
                 
-        if op.type == 26:           
+        if op.type == 25:           
             msg = op.message
             text = msg.text
             msg_id = msg.id
