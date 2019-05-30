@@ -31,10 +31,10 @@ kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 #==========================================================================================================   
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ub1c5a71f27b863896e9d44bea857d35b"] #MID CREATOR JANGAN DI UBAH
-owner = ["ub1c5a71f27b863896e9d44bea857d35b"] #MID LOE
-admin = ["ub1c5a71f27b863896e9d44bea857d35b"] #MID LOE
-staff = ["ub1c5a71f27b863896e9d44bea857d35b"] #MID LOE
+creator = ["ub3808de9f7df35f57fb366d157f9790a"] #MID CREATOR JANGAN DI UBAH
+owner = ["ub3808de9f7df35f57fb366d157f9790a"] #MID LOE
+admin = ["ub3808de9f7df35f57fb366d157f9790a"] #MID LOE
+staff = ["ub3808de9f7df35f57fb366d157f9790a"] #MID LOE
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = ka.getProfile().mid
